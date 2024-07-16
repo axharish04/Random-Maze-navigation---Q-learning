@@ -35,7 +35,11 @@ This repository contains Python code to solve a maze environment using Q-learnin
 ## How to Use
 
 ### Installation
-- Clone the repository and install dependencies using `pip install -r requirements.txt`.
+- Clone the repository and install dependencies
+### Requirements
+
+- gym>=0.27
+- python >=3.9.6
 
 ### Training
 - Execute `python filename.py` to train the Q-learning agent with predefined strategies.
