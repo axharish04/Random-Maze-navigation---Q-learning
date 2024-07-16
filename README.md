@@ -23,8 +23,8 @@ Softmax: Uses the softmax function to probabilistically select actions based on 
 Learning Rate Strategies:
 
 Two strategies are implemented:
-Constant: Uses a fixed learning rate throughout training.
-Exponential Decay: Decreases the learning rate exponentially over time, potentially allowing for finer adjustments in learning as the agent gains more experience.
+*Constant: Uses a fixed learning rate throughout training.
+*Exponential Decay: Decreases the learning rate exponentially over time, potentially allowing for finer adjustments in learning as the agent gains more experience.
 
 
 
