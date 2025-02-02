@@ -38,7 +38,7 @@ This repository contains Python code to solve a maze environment using Q-learnin
 - Clone the repository and install dependencies
 ### Requirements
 
-- gym>=0.27
+- gym==0.25.2
 - python >=3.9.6
 
 ### Training
